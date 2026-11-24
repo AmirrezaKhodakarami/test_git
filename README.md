@@ -1,11 +1,2 @@
 # gittest
-<html>
-<head>
-<title>MSRT</title>
-</head>
-<body>
-<h1>Welcome to MSRT</h1>
-<h2>Ministry of Science</h2>
-<p>Tehran Web Server</p>
-</body>
-</html>
+https://chatgpt.com/share/6b053244-da88-83ed-b15f-8c691a0650a0?ogimg=plain
